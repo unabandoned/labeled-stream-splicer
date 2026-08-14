@@ -10,8 +10,8 @@
   "devDependencies": {
     "@commitlint/cli": "21.2.1",
     "@commitlint/config-conventional": "21.2.0",
-    "browser-pack": "npm:@unabandoned/browser-pack@^6",
-    "module-deps": "npm:@unabandoned/module-deps@^6"
+    "browser-pack": "npm:@unabandoned/browser-pack@6.1.4",
+    "module-deps": "npm:@unabandoned/module-deps@6.2.7"
   },
   "scripts": {
     "prepare": "git config core.hooksPath .githooks || true",
