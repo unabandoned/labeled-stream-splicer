@@ -2,7 +2,6 @@
 
 [stream splicer](https://npmjs.org/package/stream-splicer) with labels
 
-[![build status](https://secure.travis-ci.org/browserify/labeled-stream-splicer.png?branch=master)](http://travis-ci.org/browserify/labeled-stream-splicer)
 
 # example
 
@@ -116,7 +115,7 @@ Return the stream at index `index`.
 With [npm](https://npmjs.org) do:
 
 ```
-npm install labeled-stream-splicer
+npm install @unabandoned/labeled-stream-splicer
 ```
 
 # license
