@@ -1,0 +1,26 @@
+schema: 1
+
+package: "@unabandoned/labeled-stream-splicer"
+
+upstream:
+  repo: browserify/labeled-stream-splicer
+  reason: "unmaintained since 2022 while pinned, through stream-splicer, to the abandoned readable-stream@2 line"
+
+summary: >-
+  A stream splicer whose pipeline stages carry string labels, so stages can be
+  addressed, fetched, spliced and replaced by name rather than index.
+
+why-forked: >-
+  This is the pipeline abstraction browserify builds its bundle on: the labelled
+  stages (record, deps, json, unbundle, pack, wrap) are what plugins hook into.
+  It went unmaintained while inheriting readable-stream@2 through stream-splicer;
+  forked so we own the tree and it rides on @unabandoned/stream-splicer (now on
+  readable-stream 4), keeping readable-stream@2 out of the browserify graph.
+
+status: active
+
+used-by:
+  - consumer: "@unabandoned/browserify"
+    purpose: "Builds the core bundle pipeline whose labelled stages plugins splice into."
+
+tags: [browserify, stream, pipeline, splicer, labels]

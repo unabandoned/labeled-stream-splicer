@@ -1,27 +1,33 @@
 {
-  "name": "labeled-stream-splicer",
+  "name": "@unabandoned/labeled-stream-splicer",
   "version": "2.0.2",
   "description": "stream splicer with labels",
   "main": "index.js",
   "dependencies": {
-    "inherits": "^2.0.1",
-    "stream-splicer": "^2.0.0"
+    "inherits": "^2.0.4",
+    "stream-splicer": "npm:@unabandoned/stream-splicer@^2"
   },
   "devDependencies": {
-    "browser-pack": "^6.1.0",
-    "concat-stream": "^1.4.6",
-    "module-deps": "^6.2.0",
-    "tape": "^4.10.1",
-    "through2": "^1.0.0"
+    "@commitlint/cli": "21.2.1",
+    "@commitlint/config-conventional": "21.2.0",
+    "browser-pack": "npm:@unabandoned/browser-pack@^6",
+    "module-deps": "npm:@unabandoned/module-deps@^6"
   },
   "scripts": {
-    "test": "tape test/*.js"
+    "prepare": "git config core.hooksPath .githooks || true",
+    "test": "node --test test/*.js"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/browserify/labeled-stream-splicer.git"
+    "url": "git+https://github.com/unabandoned/labeled-stream-splicer.git"
   },
-  "homepage": "https://github.com/browserify/labeled-stream-splicer",
+  "bugs": {
+    "url": "https://github.com/unabandoned/labeled-stream-splicer/issues"
+  },
+  "homepage": "https://github.com/unabandoned/labeled-stream-splicer#readme",
+  "engines": {
+    "node": ">=22.12"
+  },
   "keywords": [
     "splice",
     "stream",
