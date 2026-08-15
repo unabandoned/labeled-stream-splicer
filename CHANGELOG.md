@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.2](https://github.com/unabandoned/labeled-stream-splicer/compare/labeled-stream-splicer-v2.1.1...labeled-stream-splicer-v2.1.2) (2026-08-15)
+
+
+### Dependencies & maintenance
+
+* **deps:** update dependency module-deps to v6.2.8 ([#6](https://github.com/unabandoned/labeled-stream-splicer/issues/6)) ([3298d29](https://github.com/unabandoned/labeled-stream-splicer/commit/3298d29fbf27f714543041cda65db3db9e0fa0a7))
+
 ## [2.1.1](https://github.com/unabandoned/labeled-stream-splicer/compare/labeled-stream-splicer-v2.1.0...labeled-stream-splicer-v2.1.1) (2026-08-14)
 
 
