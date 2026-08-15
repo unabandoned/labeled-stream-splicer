@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.1](https://github.com/unabandoned/labeled-stream-splicer/compare/labeled-stream-splicer-v2.1.0...labeled-stream-splicer-v2.1.1) (2026-08-14)
+
+
+### Dependencies & maintenance
+
+* **deps:** pin dependencies ([#3](https://github.com/unabandoned/labeled-stream-splicer/issues/3)) ([4b2f1a3](https://github.com/unabandoned/labeled-stream-splicer/commit/4b2f1a3086361e0af062240555f2ec02cb71d40d))
+
 ## [2.1.0](https://github.com/unabandoned/labeled-stream-splicer/compare/labeled-stream-splicer-v2.0.2...labeled-stream-splicer-v2.1.0) (2026-08-14)
 
 
