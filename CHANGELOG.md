@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.1.3](https://github.com/unabandoned/labeled-stream-splicer/compare/labeled-stream-splicer-v2.1.2...labeled-stream-splicer-v2.1.3) (2026-08-18)
+
+
+### Dependencies & maintenance
+
+* **deps:** update commitlint monorepo to v21.2.2 ([#8](https://github.com/unabandoned/labeled-stream-splicer/issues/8)) ([89e2ebb](https://github.com/unabandoned/labeled-stream-splicer/commit/89e2ebb46552385b7bb997642172fda4dd60a963))
+* **deps:** update dependency module-deps to v6.2.9 ([#10](https://github.com/unabandoned/labeled-stream-splicer/issues/10)) ([6ee2446](https://github.com/unabandoned/labeled-stream-splicer/commit/6ee2446317dac402da3d43226872c40c9516b9d7))
+* **deps:** update unabandoned/.github digest to a6949e5 ([#11](https://github.com/unabandoned/labeled-stream-splicer/issues/11)) ([5400aea](https://github.com/unabandoned/labeled-stream-splicer/commit/5400aeaead56ddfc535808bc01d25ca1a8afb863))
+
 ## [2.1.2](https://github.com/unabandoned/labeled-stream-splicer/compare/labeled-stream-splicer-v2.1.1...labeled-stream-splicer-v2.1.2) (2026-08-15)
 
 
