@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.4](https://github.com/unabandoned/labeled-stream-splicer/compare/labeled-stream-splicer-v2.1.3...labeled-stream-splicer-v2.1.4) (2026-08-28)
+
+
+### Dependencies & maintenance
+
+* **deps:** update unabandoned/.github digest to b7d15f4 ([#13](https://github.com/unabandoned/labeled-stream-splicer/issues/13)) ([7c4b112](https://github.com/unabandoned/labeled-stream-splicer/commit/7c4b112bd2f198f8f0f3801137d07318a7939dbd))
+
 ## [2.1.3](https://github.com/unabandoned/labeled-stream-splicer/compare/labeled-stream-splicer-v2.1.2...labeled-stream-splicer-v2.1.3) (2026-08-23)
 
 
