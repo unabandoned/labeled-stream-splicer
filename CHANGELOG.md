@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.6](https://github.com/unabandoned/labeled-stream-splicer/compare/labeled-stream-splicer-v2.1.5...labeled-stream-splicer-v2.1.6) (2026-09-23)
+
+
+### Bug Fixes
+
+* stop dev-only commits from cutting releases ([#22](https://github.com/unabandoned/labeled-stream-splicer/issues/22)) ([3651f55](https://github.com/unabandoned/labeled-stream-splicer/commit/3651f55623e8cb157f646c147560e511453ce177))
+
 ## [2.1.5](https://github.com/unabandoned/labeled-stream-splicer/compare/labeled-stream-splicer-v2.1.4...labeled-stream-splicer-v2.1.5) (2026-09-20)
 
 
