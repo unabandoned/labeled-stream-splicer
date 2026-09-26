@@ -10,7 +10,7 @@ jobs:
     permissions:
       contents: read
       id-token: write
-    uses: unabandoned/.github/.github/workflows/reusable-publish.yml@08dd058141c711279e7c990179d2bfce0329ebc1 # main
+    uses: unabandoned/.github/.github/workflows/reusable-publish.yml@14773d61b24fecaea9b2077caf54104cf46c3932 # main
     with:
       install-for-publish: false
     secrets: inherit
