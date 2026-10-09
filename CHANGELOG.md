@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.7](https://github.com/unabandoned/labeled-stream-splicer/compare/labeled-stream-splicer-v2.1.6...labeled-stream-splicer-v2.1.7) (2026-10-09)
+
+
+### Dependencies & maintenance
+
+* use util.inherits instead of the inherits package ([#33](https://github.com/unabandoned/labeled-stream-splicer/issues/33)) ([ddd96ca](https://github.com/unabandoned/labeled-stream-splicer/commit/ddd96caa81b9ac3a0b0d4d0fd31c5d530ceb44a7))
+
 ## [2.1.6](https://github.com/unabandoned/labeled-stream-splicer/compare/labeled-stream-splicer-v2.1.5...labeled-stream-splicer-v2.1.6) (2026-09-23)
 
 
