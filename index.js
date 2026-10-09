@@ -1,5 +1,5 @@
 var Splicer = require('stream-splicer');
-var inherits = require('inherits');
+var inherits = require('util').inherits;
 
 module.exports = Labeled;
 inherits(Labeled, Splicer);

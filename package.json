@@ -8,7 +8,6 @@
   "description": "stream splicer with labels",
   "main": "index.js",
   "dependencies": {
-    "inherits": "^2.0.4",
     "stream-splicer": "npm:@unabandoned/stream-splicer@^2"
   },
   "devDependencies": {
