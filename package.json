@@ -11,8 +11,8 @@
     "stream-splicer": "npm:@unabandoned/stream-splicer@^2"
   },
   "devDependencies": {
-    "@commitlint/cli": "21.2.3",
-    "@commitlint/config-conventional": "21.2.3",
+    "@commitlint/cli": "21.2.4",
+    "@commitlint/config-conventional": "21.2.4",
     "browser-pack": "npm:@unabandoned/browser-pack@6.1.7",
     "module-deps": "npm:@unabandoned/module-deps@6.2.13"
   },
